@@ -99,6 +99,7 @@ In addition, we suggest you have a feature freeze sometime on Monday, September 
 * **Technical Requirements**: Did you deliver a project that met all the technical requirements?
 * **Creativity**: Did you add a personal spin or creative element to your project? Did you deliver something of value to the end user?
 * **Code Quality**: Did you follow code style guidance and best practices covered in class, such as spacing, modularity, and semantic naming? Did you comment your code?
+* **Collaboration**: Did you work as a group effectively? Can team members speak intelligently to each part of the project? Was everyone involved throughout the building of the project? Was there effective communication between and consideration for teammembers? 
 * **Problem Solving**: Are you able to defend why you implemented your solution in a certain way? Can you demonstrate that you thought through alternative implementations?
 
 Each of the criteria above will be evaluated as one of **incomplete**, **does not meet expectations**, **meets expectations**, or **exceeds expectations**. You'll be receiving written feedback from your instructors.
