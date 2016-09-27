@@ -1,4 +1,6 @@
-# <img src="https://cloud.githubusercontent.com/assets/7833470/10423298/ea833a68-7079-11e5-84f8-0a925ab96893.png" width="60"> Project Two
+<img src="https://cloud.githubusercontent.com/assets/7833470/10423298/ea833a68-7079-11e5-84f8-0a925ab96893.png" width="60"> 
+
+#Project Two
 
 It's time to put everything that you've learned in the past month together! For your first project, you will build a full stack web application using jQuery and AJAX, Express, Node.js, Mongoose, and MongoDB.
 
